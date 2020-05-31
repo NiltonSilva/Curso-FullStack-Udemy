@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Road Rage";
+    src: url(../fontes/RoadRage.woff);
+}
+
+@font-face {
+    font-family: BringHeart;
+    src: url(../fontes/BringHeart.woff);
+}
+
+@font-face {
+    font-family: Ancient;
+    src: url(../fontes/Ancient-Medium.woff);
+}
+
+h1 {
+    font-size: 3em;
+    font-family: Ancient;
+}
